@@ -973,6 +973,16 @@ Here's an awesome list of AI agents:
 <p><a href="https://github.com/entropy-research/Devon">github</a></p>
 </div>
 
+### DoaCam
+<div><a href="https://doacam.com"><img src="https://img.shields.io/badge/Open%20Source-No-red" alt="Open Source"></a></div>
+
+<p>🤖 AI Agents</p>
+
+<p>DoaCam is a real-time 3D AI avatar agent powered by Google Gemini. It enables multimodal voice and vision conversations with persistent memory, lip-synced animation, and tool use (web search, memory management). Free, no sign-up, browser-based</p>
+
+<p><a href="https://doacam.com">website</a></p>
+</div>
+
 ### DevOpsGPT
 <div><a href="https://github.com/kuafuai/DevOpsGPT"><img src="https://img.shields.io/badge/Open%20Source-Yes-green" alt="Open Source"></a> <a href="https://github.com/kuafuai/DevOpsGPT"><img src="https://img.shields.io/github/stars/kuafuai/DevOpsGPT?style=social" alt="GitHub stars"></a></div>
 <p>⭐ 5,951 stars (Updated: 2025-07-30)</p>
